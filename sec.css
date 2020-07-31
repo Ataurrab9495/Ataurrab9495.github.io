@@ -1,0 +1,40 @@
+.first-One{
+    
+    padding-left: 275px;
+    margin: 0px;
+}
+#sec{
+    margin-top:0px;
+    margin-left: 40px;
+}
+#third{
+    margin-top:0px;
+    margin-left: 40px;
+}
+#center{
+    padding:5px;
+    text-align: center;
+    text-shadow: 2px 2px 5px black;
+}
+#last{
+    text-align: center;
+}
+#border{
+    font-family: 'Roboto Condensed', sans-serif;
+    border: 5px solid;
+    border-color: bisque;
+    border-radius: 5px;
+    text-align: center;
+    margin:50px;
+    text-shadow: 2px 2px 5px blue;
+}
+.grad{
+    height:1000px;
+    background: linear-gradient(to bottom, #FFB88C, #DE6262);
+}
+input[type=button]{
+    cursor: pointer;
+}
+#bord{
+    border:5px dotted;
+}
